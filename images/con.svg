@@ -62,5 +62,15 @@
        cy="5.0261135"
        rx="1.3608456"
        ry="1.3338982" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.179275;stroke-dasharray:none;stroke-opacity:1"
+       id="rect3"
+       width="5.2952189"
+       height="1.4349154"
+       x="12.231186"
+       y="-0.83001369"
+       rx="0.54660362"
+       ry="0.25572717"
+       transform="rotate(44.567746)" />
   </g>
 </svg>
